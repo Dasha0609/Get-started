@@ -8,8 +8,14 @@
 
 To initialize local reposotory shoukd be used command:
 
-    git init
-    
+    git ini
+
+##status verification
+
+to verify rep status used command:
+
+       git status
+
 
 
 
