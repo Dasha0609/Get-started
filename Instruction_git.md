@@ -34,4 +34,10 @@ to commit a snapshot of all changes in the working directory should be used:
 
        git commit -a
 
+## Creates a commit with a passed commit message
 
+Passing the -m option will forgo the text editor prompt in favor of an inline message:
+
+       git commit -m
+
+       
