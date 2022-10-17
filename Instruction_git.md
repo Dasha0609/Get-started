@@ -22,8 +22,16 @@ to update the index of current contect in the working tree should be used:
 
        git add
 
+## Captures a snapshot of the projects
 
+to launch a text editor prompting you for a commit message shuld be used:
 
+       git commit
 
+## Commit a snapshot of all changes
+
+to commit a snapshot of all changes in the working directory should be used:
+
+       git commit -a
 
 
