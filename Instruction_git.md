@@ -40,4 +40,9 @@ Passing the -m option will forgo the text editor prompt in favor of an inline me
 
        git commit -m
 
+## Show commit logs
+
+to see your commit or other's commit message history should be used:
+
+       git log
        
