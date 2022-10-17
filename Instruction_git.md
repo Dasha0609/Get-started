@@ -45,4 +45,9 @@ Passing the -m option will forgo the text editor prompt in favor of an inline me
 to see your commit or other's commit message history should be used:
 
        git log
-       
+
+## Switch branches or restore working tree files
+
+To update files in the working tree to match the version in the index or the specified tree could be used:
+
+       git checkout
