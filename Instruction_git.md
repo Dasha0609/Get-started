@@ -8,15 +8,19 @@
 
 To initialize local reposotory shoukd be used command:
 
-      git ini
+      git init
 
-## status verification
+## Status verification
 
 to verify rep status shoud be used command:
 
        git status
 
+## Add file contents to the index
 
+to update the index of current contect in the working tree should be used:
+
+       git add
 
 
 
