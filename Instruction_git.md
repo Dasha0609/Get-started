@@ -4,6 +4,8 @@
 
 the most popular version control tool used in software development
 
+![picutre](images/Capture.JPG)
+
 ## Local repository creation
 
 To initialize local reposotory shoukd be used command:
