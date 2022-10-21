@@ -54,6 +54,18 @@ to see your commit or other's commit message history should be used:
 
        git log
 
+to show the commit id abd comment per-commit only it's easy to use:
+
+       git log --oneline
+
+to be able to see exactly what was merged in where use — graph
+
+       git log --graph
+
+to see all the branches in the history use — all flag.
+
+       git log --all
+
 ## Switch branches or restore working tree files
 
 To update files in the working tree to match the version in the index or the specified tree could be used:
