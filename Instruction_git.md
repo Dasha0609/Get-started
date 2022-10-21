@@ -42,6 +42,10 @@ Passing the -m option will forgo the text editor prompt in favor of an inline me
 
        git commit -m
 
+## Differences between commits
+
+
+
 ## Show commit logs
 
 to see your commit or other's commit message history should be used:
@@ -88,8 +92,5 @@ Once you have work isolated in a branch, you will eventually want to incorporate
 
     git status
 
-
-     
-### *Merge conflict*
-
 *If you change the same part of the same file differently in the two branches you’re merging, You will get a merge conflict.*
+
