@@ -64,9 +64,9 @@ To check existing in your file available branches you van use:
 
     git branch
 
-### new branch creation
+### New branch creation
 
-bla bla bla
+You can add new branch by running:
 
     git branch <branch_name>
 
