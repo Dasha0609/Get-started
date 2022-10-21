@@ -65,3 +65,7 @@ In a nutshell you can create a branch with:
 bla bla bla
 
     git branch <branch_name>
+
+### Branch deleting 
+
+to delete branch bla bla bla
