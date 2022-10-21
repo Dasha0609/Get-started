@@ -72,7 +72,9 @@ You can add new branch by running:
 
 ### Branch deleting 
 
-to delete branch bla bla bla
+to delete a branch you should run:
 
+    git branch -d <branchname>
+    
 ### Merging 
 
