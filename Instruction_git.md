@@ -78,3 +78,7 @@ to delete a branch you should run:
     
 ### Merging 
 
+Once you have work isolated in a branch, you will eventually want to incorporate it into your main branch. You can merge any branch into your current branch with the:
+
+     git merge
+     
