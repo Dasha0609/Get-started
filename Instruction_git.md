@@ -82,3 +82,6 @@ Once you have work isolated in a branch, you will eventually want to incorporate
 
      git merge
      
+### *Merge conflict*
+
+*If you change the same part of the same file differently in the two branches you’re merging, You will get a merge conflict.*
