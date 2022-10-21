@@ -56,7 +56,11 @@ To update files in the working tree to match the version in the index or the spe
 
 ## Branchings
 
-In a nutshell you can create a branch with:
+Branching means you diverge from the main-line of development and continue to do work without messing with that main-line.
+
+### Available branches
+
+To check existing in your file available branches you van use:
 
     git branch
 
