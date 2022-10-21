@@ -54,5 +54,8 @@ To update files in the working tree to match the version in the index or the spe
 
        git checkout <hash>
 
-## New title
+## Branchings
 
+In a nutshell you can create a branch with:
+
+    git branch
