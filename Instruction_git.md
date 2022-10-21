@@ -44,7 +44,9 @@ Passing the -m option will forgo the text editor prompt in favor of an inline me
 
 ## Differences between commits
 
+to view the changes you made relative to the index (staging area for the next commit). You can stage these changes by using:
 
+       git diff <path>
 
 ## Show commit logs
 
