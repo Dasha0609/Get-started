@@ -2,7 +2,7 @@
 
 ## What the git is?
 
-~~Here will be Git instructions with details~~
+the most popular version control tool used in software development
 
 ## Local repository creation
 
@@ -20,7 +20,7 @@ to verify rep status shoud be used command:
 
 to update the index of current contect in the working tree should be used:
 
-       git add
+       git add <file name>
 
 ## Captures a snapshot of the projects
 
@@ -50,4 +50,7 @@ to see your commit or other's commit message history should be used:
 
 To update files in the working tree to match the version in the index or the specified tree could be used:
 
-       git checkout
+       git checkout <hash>
+
+
+
