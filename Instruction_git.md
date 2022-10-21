@@ -63,3 +63,5 @@ In a nutshell you can create a branch with:
 ### new branch creation
 
 bla bla bla
+
+    git branch <branch_name>
