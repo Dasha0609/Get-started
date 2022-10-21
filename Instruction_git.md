@@ -69,3 +69,6 @@ bla bla bla
 ### Branch deleting 
 
 to delete branch bla bla bla
+
+### Merging 
+
